@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! My name is Diego Oliveira, I'm studying Network Engeneering and you can follow me on social media (including LinkedIn) searching @diegommobr
 
 <!--
 **diegommo/diegommo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
